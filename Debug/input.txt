@@ -1,0 +1,8 @@
+Name output file
+
+Frame size (symbols)
+
+Eb/N0 [dB]
+
+Number of modulation bits
+

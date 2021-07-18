@@ -1,0 +1,4 @@
+﻿  My_QAM_Modulator.cpp
+C:\Users\mohse\OneDrive\Desktop\New folder (2)\3rd Lab\Software\Projects\Simple\My_QAM_Modulator.cpp(32,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohse\OneDrive\Desktop\New folder (2)\3rd Lab\Software\Projects\Simple\My_QAM_Modulator.cpp(120,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Simple.vcxproj -> C:\Users\mohse\OneDrive\Desktop\1st Lab (1)\1st Lab\Software\Projects\Debug\Simple.exe

@@ -1,0 +1,12 @@
+Name output file
+temp.txt
+Number of modulation bits
+2
+SNR [dB]
+10
+Maximum number of simulated intervals
+1000000
+Frame size (symbols)
+1000
+Eb/N0 [dB]
+0:10:1
